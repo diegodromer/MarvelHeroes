@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">MarvelHeroes</string>
+
+    <!-- Network -->
+    <string name="network_loading_msg">Carregando...</string>
+    <string name="netwok_alert_dialog">Ops!</string>
+    <string name="network_alert_message">Houve um erro. Gostaria de tentar novamente?</string>
+    <string name="network_alert_yes">Sim</string>
+    <string name="network_alert_no">Não</string>
+
+    <!-- Character List Fragment -->
+    <string name="character_list_title"> <b> <u>BUSCA</u> MARVEL</b> TESTE FRONT-END</string>
+    <string name="character_list_char_name">Nome do Personagem</string>
+    <string name="character_list_name">Nome</string>
+
+    <!-- Character Details -->
+    <string name="character_detail_description">Descrição</string>
 </resources>
